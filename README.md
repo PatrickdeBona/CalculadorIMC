@@ -1,2 +1,2 @@
 # CalculadorIMC
- Calculador de IMC
+ Calculador de IMC - Digite seu Peso e altura
