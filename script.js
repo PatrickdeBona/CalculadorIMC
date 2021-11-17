@@ -24,7 +24,7 @@ function dados() {
             setResultado('Altura Inválida', false);
             return;
         }
-
+a
         //Calculando o IMC e seu Nivel
         const imc = Imc(peso, altura);
         const nivelImc = NivelImc(imc);
